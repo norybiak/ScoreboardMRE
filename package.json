@@ -1,10 +1,10 @@
 {
-  "name": "user-test",
+  "name": "scoreboard",
   "version": "0.1.0",
   "private": true,
   "description": "",
   "main": "built/server.js",
-  "author": "NorybiaK",
+  "author": "Dargon",
   "license": "MIT",
   "keywords": [
     "mixed reality",
